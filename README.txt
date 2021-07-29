@@ -12,6 +12,7 @@ i have used:
 - vue        (some)
 - svelte     (a lot)
 - node.js    (too much)
+- deno       (node.js but worse, some)
 - redis      (some)
 - mongodb    (some)
 - discord.js (too much)

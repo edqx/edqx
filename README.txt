@@ -1,25 +1,21 @@
 pretty much exclusively typescript at this point.
 
 languages i know with varying degrees of profiency, although all at a reasonable level:
-- typescript (too much)
-- javascript (too much)
-- c++        (quite a lot)
-- c          (i know the concepts, no actual projects)
-- c#         (i know the concepts, some small projects)
+- typescript (everything)
+- javascript
+- c++        (non-malicious game hacking, udp sockets) 
+- c          (udp sockets)
+- c#         (game modding)
 
 i have used:
-- express    (a lot)
-- vue        (some)
-- svelte     (a lot)
-- node.js    (too much)
-- deno       (node.js but worse, some)
-- redis      (fair amount)
-- mongodb    (fair amount)
-- discord.js (too much)
-
-i have experience in:
-- discord api (a lot)
-- scratch.mit.edu api (way too much to be proud of)
-- DTLS (basic, i'm not proud of it (https://github.com/SkeldJS/SkeldJS/tree/master/packages/dtls))
+- express 
+- vue         (veutify)
+- svelte      (sapper, sveltekit, routify, svelte-material-ui)
+- node.js
+- deno
+- redis       (caching, game load-balancing)
+- mongodb     (mongoose/typegoose)
+- discord api (too much, discord.js, made my own library)
+- dtls (i'm not proud, https://github.com/SkeldJS/SkeldJS/tree/master/packages/dtls)
 
 i also have *a lot* of experience in among us if that's useful to anyone

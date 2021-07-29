@@ -20,6 +20,6 @@ i have used extensively:
 i have experience in:
 - discord api
 - scratch.mit.edu api
-- DTLS (granted, [i'm not proud of it](https://github.com/SkeldJS/SkeldJS/tree/master/packages/dtls))
+- DTLS (granted, i'm not proud of it (https://github.com/SkeldJS/SkeldJS/tree/master/packages/dtls))
 
-i also have **a lot** of experience in among us if that's useful to anyone
+i also have *a lot* of experience in among us if that's useful to anyone

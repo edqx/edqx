@@ -13,8 +13,8 @@ i have used:
 - svelte     (a lot)
 - node.js    (too much)
 - deno       (node.js but worse, some)
-- redis      (some)
-- mongodb    (some)
+- redis      (fair amount)
+- mongodb    (fair amount)
 - discord.js (too much)
 
 i have experience in:

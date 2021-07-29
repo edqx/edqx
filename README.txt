@@ -17,6 +17,6 @@ i have used:
 - mongodb     (mongoose/typegoose)
 - discord api (too much, discord.js, made my own library)
 - bepinex
-- dtls (i'm not proud, https://github.com/SkeldJS/SkeldJS/tree/master/packages/dtls)
+- dtls        (i'm not proud, https://github.com/SkeldJS/SkeldJS/tree/master/packages/dtls)
 
 i also have *a lot* of experience in among us if that's useful to anyone

@@ -3,7 +3,7 @@ pretty much exclusively typescript at this point.
 languages i know with varying degrees of profiency, although all at a reasonable level:
 - typescript (everything)
 - javascript
-- c++        (non-malicious game hacking, udp sockets) 
+- c++        (game hacking, udp sockets) 
 - c          (udp sockets)
 - c#         (game modding)
 
@@ -14,7 +14,7 @@ i have used:
 - node.js
 - deno
 - redis       (caching, game load-balancing)
-- mongodb     (mongoose/typegoose)
+- mongodb     (mongoose, typegoose)
 - discord api (too much, discord.js, made my own library)
 - bepinex
 - dtls        (i'm not proud, https://github.com/SkeldJS/SkeldJS/tree/master/packages/dtls)

@@ -9,7 +9,8 @@ languages i know in order of profiency, although all at a reasonable level:
 - c          (udp sockets)
 
 i have used:
-- express 
+- express
+- tauri
 - vue         (veutify)
 - svelte      (sveltekit, routify, svelte-material-ui)
 - node.js

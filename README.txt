@@ -3,10 +3,11 @@ i am good at typescript, nim and c#
 languages i know in order of profiency, although all at a reasonable level:
 - typescript (everything)
 - javascript
-- nim
 - c#         (game modding)
-- c++        (game hacking, udp sockets) 
-- c          (udp sockets)
+- zig        (game development)
+- c++        (game hacking, udp sockets)
+- c          (udp sockets, language compiler)
+- nim
 
 i have used:
 - express

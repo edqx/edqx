@@ -1,4 +1,4 @@
-i am good at typescript, nim and c#
+i am good at typescript, zig, c, c# and nim
 
 languages i know in order of profiency, although all at a reasonable level:
 - typescript (everything)

@@ -3,8 +3,8 @@ i am good at typescript, zig, c, c# and nim
 languages i know in order of profiency, although all at a reasonable level:
 - typescript (everything)
 - javascript
+- zig
 - c#         (game modding)
-- zig        (game development)
 - c++        (game hacking, udp sockets)
 - c          (udp sockets, language compiler)
 - nim
